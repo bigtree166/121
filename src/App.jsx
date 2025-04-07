@@ -275,6 +275,3 @@ const evaluate = (all) => {
     </div>
   );
 }
-
-
-export default App;
